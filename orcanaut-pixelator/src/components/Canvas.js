@@ -60,6 +60,7 @@ const Canvas = ({
     mouthSprite.src = attrs.mouth.src;
     accessorySprite.src = attrs.accessory.src;
 
+    // if canvas starts stacking images uncomment below:
     // ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
     ctx.imageSmoothingEnabled = false;
