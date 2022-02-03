@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Pixel Six';
+  src: local('Pixel Six'), url(./fonts/pixel_six.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Small Hollows';
+  src: local('Small Hollows'), url(./fonts/small_hollows.ttf) format('truetype');
+}
+
+body {
+  font-family: 'Pixel Six', sans-serif;
+  color: black
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Small Hollows', sans-serif;
+}
+
+
+canvas {
+  width: 100%;
+  height: auto;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}

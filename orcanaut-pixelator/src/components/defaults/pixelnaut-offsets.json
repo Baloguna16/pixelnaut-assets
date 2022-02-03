@@ -1,0 +1,44 @@
+{
+  "background": {
+    "src":  null,
+    "width": 40,
+    "height": 40,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "body": {
+    "src": null,
+    "width": 32,
+    "height": 19,
+    "offsetX": 2,
+    "offsetY": 16
+  },
+  "hat": {
+    "src": null,
+    "width": 28,
+    "height": 36,
+    "offsetX": 8,
+    "offsetY": 4
+  },
+  "eyes": {
+    "src": null,
+    "width": 24,
+    "height": 32,
+    "offsetX": 12,
+    "offsetY": 4
+  },
+  "mouth": {
+    "src": null,
+    "width": 28,
+    "height": 20,
+    "offsetX": 8,
+    "offsetY": 16
+  },
+  "accessory": {
+    "src": null,
+    "width": 40,
+    "height": 40,
+    "offsetX": 0,
+    "offsetY": 0
+  }
+}
